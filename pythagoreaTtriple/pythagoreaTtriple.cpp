@@ -13,7 +13,7 @@ int main()
 	std::cin >> x;
 	if (std::cin.good() && x != 0 && x != '\n')
 	{
-		std::cin >> y;
+		std::cin >> y; 
 		if (std::cin.good() && y != 0 && y != '\n')
 		{
 			std::cin >> z;
